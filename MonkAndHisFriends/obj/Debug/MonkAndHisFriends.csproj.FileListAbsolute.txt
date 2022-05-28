@@ -1,0 +1,8 @@
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\bin\Debug\MonkAndHisFriends.exe.config
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\bin\Debug\MonkAndHisFriends.exe
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\bin\Debug\MonkAndHisFriends.pdb
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\obj\Debug\MonkAndHisFriends.csproj.AssemblyReference.cache
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\obj\Debug\MonkAndHisFriends.csproj.SuggestedBindingRedirects.cache
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\obj\Debug\MonkAndHisFriends.csproj.CoreCompileInputs.cache
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\obj\Debug\MonkAndHisFriends.exe
+C:\Dropbox\!GDipsa\SA4102\TeamsubmissionForVideo\MonkAndHisFriends\MonkAndHisFriends\obj\Debug\MonkAndHisFriends.pdb
